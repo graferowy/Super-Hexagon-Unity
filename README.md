@@ -1,9 +1,9 @@
 # Super Hexagon
 Unity project based on Super Hexagon game. Your task is to avoid hexagons for as long as possible
 
-![Gameplay preview](https://i.gyazo.com/cbc05ebb8b6c2e3ec5897ae6d22a2441.gif)
+![Gameplay preview](https://i.gyazo.com/97430156c3cc7a9988c94c66f2c3e3c8.gif)
 
-## Software used
+## Software
 - Unity 2020.2.1f1
 
 ## How to use
